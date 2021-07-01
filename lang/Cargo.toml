@@ -24,7 +24,7 @@ anchor-debug = [
 #
 # WARNING: This is dangerous to use. Do not use if you don't know
 #          what you're doing. This will introduce a semver incompatible
-#          change meant for programs deployed with Anchor v0.9.0 and below,
+#          change meant for programs deployed with Anchor v0.6.0 and below,
 #          but who want to use the latest version of Anchor.
 #
 #          If you have multiple programs that all depend on each other, make
