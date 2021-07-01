@@ -21,6 +21,7 @@ anchor-debug = [
     "anchor-attribute-state/anchor-debug",
     "anchor-derive-accounts/anchor-debug"
 ]
+anchor-deprecated-state = ["anchor-attribute-state/anchor-deprecated-state"]
 
 [dependencies]
 anchor-attribute-access-control = { path = "./attribute/access-control", version = "0.10.0" }
